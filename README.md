@@ -28,5 +28,6 @@ Create a captivating, interactive 3D portfolio using Three.js and Blender, offer
 - Three.js community
 - Blender team
 
-
-
+## Start 
+-npm install
+-npm run dev
